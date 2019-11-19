@@ -1,3 +1,3 @@
 <?php
-echo "<h1> build integrado </h1> ";
+echo "<h1>Openshift Workshop v2.0</h1>";
 ?>
